@@ -4,18 +4,6 @@
   Oito temas, oito bases de dados geradas via Python + Faker, um esquema fixo de colunas.
 </p>
 
-
-<p align="center">
-  <img src="icones/01-estacionamento.svg" width="48" height="48" alt="Estacionamento">
-  <img src="icones/02-posto-de-saude.svg" width="48" height="48" alt="Posto de saude">
-  <img src="icones/03-streaming-de-filmes.svg" width="48" height="48" alt="Streaming de filmes">
-  <img src="icones/04-atendimento-ao-cliente.svg" width="48" height="48" alt="Atendimento ao cliente">
-  <img src="icones/05-passagens-aereas.svg" width="48" height="48" alt="Passagens aereas">
-  <img src="icones/06-servico-meteorologico.svg" width="48" height="48" alt="Servico meteorologico">
-  <img src="icones/07-telemetria-esportiva.svg" width="48" height="48" alt="Telemetria esportiva">
-  <img src="icones/08-festival-de-musica.svg" width="48" height="48" alt="Festival de musica">
-</p>
-
 ---
 
 ## Sobre este material
