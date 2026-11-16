@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="imagens/banner.png" alt="banner">
-</p>
-
 # Desafios Técnicos - Analista de  Dados
 
 **Bem-vindo(a)!** 
